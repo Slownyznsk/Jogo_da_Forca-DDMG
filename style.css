@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(https://pbs.twimg.com/media/FDFMpXOWEAU0dbq?format=png&name=large);
+  background-image: url(https://images7.alphacoders.com/136/thumb-1920-1369574.png);
   background-size: 100%;
   background-repeat: no-repeat;
   color: whitesmoke;
@@ -33,13 +33,13 @@ main {
   border: 3px solid whitesmoke;
   border-radius: 5px;
   width: 800px;
-  background-color: rgb(20, 20, 20);
 }
 
 .content {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: 200px;
   max-width: 400px;
 }
 
@@ -67,12 +67,12 @@ button {
 
 .btns button {
   width: 30px;
-  background-color: #ff7b00;
+  background-color: #292929;
 }
 
 .new {
   width: 120px;
-  background-color: #f0b000;
+  background-color: #1d1d1d;
   margin: 20px;
 }
 
